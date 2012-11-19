@@ -2,14 +2,14 @@
 <html lang="en">
 <head>
 	<title></title>
-	<link rel="stylesheet" href="assets/css/reset.css">
-	<link rel="stylesheet" href="assets/css/grid.css">
-	<link rel="stylesheet" href="assets/css/base.css">
-	<link rel="stylesheet" href="assets/css/fontello.css">
+	<link rel="stylesheet" href="../app/assets/stylesheets/reset.css">
+	<link rel="stylesheet" href="../app/assets/stylesheets/grid.css">
+	<link rel="stylesheet" href="../app/assets/stylesheets/base.css">
+	<link rel="stylesheet" href="../app/assets/stylesheets/fontello.css">
 	
 
-	<script type="text/javascript" src="assets/js/jquery.min.js"></script>
-	<script type="text/javascript" src="assets/js/fileuploader.js"></script>
+	<script type="text/javascript" src="../app/assets/javascripts/jquery.min.js"></script>
+	<script type="text/javascript" src="../app/assets/javascripts/fileuploader.js"></script>
 	
 </head>
 <body>

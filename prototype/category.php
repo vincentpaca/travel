@@ -25,165 +25,137 @@
 				<li><a href="#">Recent</a></li>
 				<li><a href="#">Staff picks</a></li>				
 			</ul>
-			<div class="section-results-wrapper">
-				<div class="timelined">
-						<ul class="search-result-list">
-							<li class="search-result">
-								<ul class="search-result-details">
-									<li>
-										<div class="tooltip-legend">
-											<span>43</span>
-											<div class="tooltip-arrow"></div>
-										</div>
-									</li>
-									<li>
-										<div class="voter">
-											<a class="vote-btn vote-up">
-												<i class="icon-up-open"></i>
-											</a>
-											<div class="vote-counts">10,542</div>
-											<a class="vote-btn vote-down">
-												<i class="icon-down-open"></i>
-											</a>
-										</div>
-									</li>
-									<li>
-										<div class="post-thumbnail-2 framed">
-											<a href="#"><img src="assets/img/thumbnail3.jpg"></a>
-										</div>
-									</li>
-									<li class="post-list">
-										<h3><a href="#">Danasan Eco Park Adventure	</a></h3>
-										<ul class="post-sub-details">
-											<li><i class="icon-location-1"></i>Cebu, Philippines</li>
-										</ul>
-											
-											<ul class="user-thumbnail-list small">
-												<li><a href="#"><img src="assets/img/user-thumbnail1.png"></a></li>
-												<li><a href="#"><img src="assets/img/user-thumbnail2.jpg"></a></li>
-												<li><a href="#"><img src="assets/img/user-thumbnail3.jpg"></a></li>
-												<li><a href="#"><img src="assets/img/user-thumbnail4.jpg"></a></li>
-												<li><a href="#"><img src="assets/img/user-thumbnail5.jpg"></a></li>
-												<li><a href="#"><img src="assets/img/user-thumbnail6.jpg"></a></li>
-												<li><a href="#"><img src="assets/img/user-thumbnail3.jpg"></a></li>
-												<li><a href="#"><img src="assets/img/user-thumbnail6.jpg"></a></li>
-												<li><a href="#"><img src="assets/img/user-thumbnail1.png"></a></li>
-												<li><a href="#"><img src="assets/img/user-thumbnail2.jpg"></a></li>
-												<li><a href="#"><img src="assets/img/user-thumbnail3.jpg"></a></li>
-												<li><a href="#"><img src="assets/img/user-thumbnail4.jpg"></a></li>
-												<li><a href="#"><img src="assets/img/user-thumbnail5.jpg"></a></li>
-												<li><a href="#"><img src="assets/img/user-thumbnail6.jpg"></a></li>
-												<li><a href="#"><img src="assets/img/user-thumbnail3.jpg"></a></li>
-												<li><a href="#"><img src="assets/img/user-thumbnail6.jpg"></a></li>
-												<li><a href="#"><img src="assets/img/user-thumbnail3.jpg"></a></li>
-												<li><a href="#"><img src="assets/img/user-thumbnail3.jpg"></a></li>
-												<li><a href="#"><img src="assets/img/user-thumbnail6.jpg"></a></li>
-												<li><a href="#"><img src="assets/img/user-thumbnail3.jpg"></a></li>
-												<li><a href="#"><img src="assets/img/user-thumbnail6.jpg"></a></li>
-												<li><a href="#"><img src="assets/img/user-thumbnail1.png"></a></li>
-												<li><a href="#"><img src="assets/img/user-thumbnail2.jpg"></a></li>
-											</ul>
-									</li>
+			<div class="block">
+				<div class="feature-wrapper">
+					<div class="grid_3 alpha">
+						<div class="feature-post">
+							<div class="post-details head">
+								<h3><a href="#">Oslob Whale shark watching</a></h3>
+								<ul class="post-sub-details">
+									<li><a href="#"><i class="icon-location"></i> Cebu, Philippines</a></li>
 								</ul>
-							</li>
-							<li class="search-result">
-								<ul class="search-result-details">
-									<li>
-										<div class="tooltip-legend">
-											<span>196</span>
-											<div class="tooltip-arrow"></div>
-										</div>
-									</li>
-									<li>
-										<div class="voter">
-											<a class="vote-btn vote-up">
-												<i class="icon-up-open"></i>
-											</a>
-											<div class="vote-counts">10,542</div>
-											<a class="vote-btn vote-down">
-												<i class="icon-down-open"></i>
-											</a>
-										</div>
-									</li>
-									<li>
-										<div class="post-thumbnail-2 framed">
-											<a href="#"><img src="assets/img/thumbnail3.jpg"></a>
-										</div>
-									</li>
-									<li class="post-list">
-										<h3><a href="#">Osmena Peak</a></h3>
-										<ul class="post-sub-details">
-											<li><i class="icon-location-1"></i>Cebu, Philippines</li>
-										</ul>
-											
-											<ul class="user-thumbnail-list small">
-												<li><a href="#"><img src="assets/img/user-thumbnail1.png"></a></li>
-												<li><a href="#"><img src="assets/img/user-thumbnail2.jpg"></a></li>
-												<li><a href="#"><img src="assets/img/user-thumbnail3.jpg"></a></li>
-												<li><a href="#"><img src="assets/img/user-thumbnail4.jpg"></a></li>
-												<li><a href="#"><img src="assets/img/user-thumbnail5.jpg"></a></li>
-												<li><a href="#"><img src="assets/img/user-thumbnail6.jpg"></a></li>
-												<li><a href="#"><img src="assets/img/user-thumbnail3.jpg"></a></li>
-												<li><a href="#"><img src="assets/img/user-thumbnail6.jpg"></a></li>
-												<li><a href="#"><img src="assets/img/user-thumbnail3.jpg"></a></li>
-												<li><a href="#"><img src="assets/img/user-thumbnail3.jpg"></a></li>
-												<li><a href="#"><img src="assets/img/user-thumbnail6.jpg"></a></li>
-												<li><a href="#"><img src="assets/img/user-thumbnail3.jpg"></a></li>
-												<li><a href="#"><img src="assets/img/user-thumbnail6.jpg"></a></li>
-												<li><a href="#"><img src="assets/img/user-thumbnail3.jpg"></a></li>
-												<li><a href="#"><img src="assets/img/user-thumbnail3.jpg"></a></li>
-											</ul>
-									</li>
+							</div>
+							<div class="post-thumbnail">
+								<a href="#"><img src="../app/assets/images/thumbnail.png"></a>
+							</div>
+							<div class="post-details small">
+								<i class="icon-thumbs-up"></i> 13,723 recommend this
+							</div>
+
+						</div>
+					</div>
+					<div class="grid_3">
+						<div class="feature-post">
+							<div class="post-details head">
+								<h3><a href="#">Oslob Whale shark watching</a></h3>
+								<ul class="post-sub-details">
+									<li><a href="#"><i class="icon-location"></i> Cebu, Philippines</a></li>
 								</ul>
-							</li>
-
-							<li class="search-result">
-								<ul class="search-result-details">
-									<li>
-										<div class="tooltip-legend">
-											<span>196</span>
-											<div class="tooltip-arrow"></div>
-										</div>
-									</li>
-									<li>
-										<div class="voter">
-											<a class="vote-btn vote-up">
-												<i class="icon-up-open"></i>
-											</a>
-											<div class="vote-counts">10,542</div>
-											<a class="vote-btn vote-down">
-												<i class="icon-down-open"></i>
-											</a>
-										</div>
-									</li>
-									<li>
-										<div class="post-thumbnail-2 framed">
-											<a href="#"><img src="assets/img/thumbnail4.jpg"></a>
-										</div>
-									</li>
-									<li class="post-list">
-										<h3><a href="#">Colorado horseback riding vacation</a></h3>
-										<ul class="post-sub-details">
-											<li><i class="icon-location-1"></i>Colorado, United States</li>
-										</ul>
-											
-											<ul class="user-thumbnail-list small">
-												<li><a href="#"><img src="assets/img/user-thumbnail1.png"></a></li>
-												<li><a href="#"><img src="assets/img/user-thumbnail2.jpg"></a></li>
-												<li><a href="#"><img src="assets/img/user-thumbnail3.jpg"></a></li>
-												<li><a href="#"><img src="assets/img/user-thumbnail4.jpg"></a></li>
-												<li><a href="#"><img src="assets/img/user-thumbnail5.jpg"></a></li>
-												<li><a href="#"><img src="assets/img/user-thumbnail6.jpg"></a></li>
-												<li><a href="#"><img src="assets/img/user-thumbnail3.jpg"></a></li>
-											</ul>
-									</li>
+							</div>
+							<div class="post-thumbnail">
+								<a href="#"><img src="../app/assets/images/thumbnail2.png"></a>
+							</div>
+							<div class="post-details small">
+								<i class="icon-thumbs-up"></i> 12 recommend this
+							</div>
+						</div>
+					</div>
+					<div class="grid_3">
+						<div class="feature-post">
+							<div class="post-details head">
+								<h3><a href="#">Oslob Whale shark watching</a></h3>
+								<ul class="post-sub-details">
+									<li><a href="#"><i class="icon-location"></i> Cebu, Philippines</a></li>
 								</ul>
-							</li>
-
-
-
-							
-						</ul>
+							</div>
+							<div class="post-thumbnail">
+								<a href="#"><img src="../app/assets/images/thumbnail3.jpg"></a>
+							</div>
+							<div class="post-details small">
+								<i class="icon-thumbs-up"></i> 723 recommend this
+							</div>
+						</div>
+					</div>
+					<div class="grid_3 omega">
+						<div class="feature-post">
+							<div class="post-details head">
+								<h3><a href="#">Oslob Whale shark watching</a></h3>
+								<ul class="post-sub-details">
+									<li><a href="#"><i class="icon-location"></i> Cebu, Philippines</a></li>
+								</ul>
+							</div>
+							<div class="post-thumbnail">
+								<a href="#"><img src="../app/assets/images/thumbnail4.jpg"></a>
+							</div>
+							<div class="post-details small">
+								<i class="icon-thumbs-up"></i> 23 recommend this
+							</div>
+						</div>
+					</div>
+					<div class="grid_3 alpha">
+						<div class="feature-post">
+							<div class="post-details head">
+								<h3><a href="#">Oslob Whale shark watching</a></h3>
+								<ul class="post-sub-details">
+									<li><a href="#"><i class="icon-location"></i> Cebu, Philippines</a></li>
+								</ul>
+							</div>
+							<div class="post-thumbnail">
+								<a href="#"><img src="../app/assets/images/thumbnail4.jpg"></a>
+							</div>
+							<div class="post-details small">
+								<i class="icon-thumbs-up"></i> 23 recommend this
+							</div>
+						</div>
+					</div>
+					<div class="grid_3">
+						<div class="feature-post">
+							<div class="post-details head">
+								<h3><a href="#">Oslob Whale shark watching</a></h3>
+								<ul class="post-sub-details">
+									<li><a href="#"><i class="icon-location"></i> Cebu, Philippines</a></li>
+								</ul>
+							</div>
+							<div class="post-thumbnail">
+								<a href="#"><img src="../app/assets/images/thumbnail3.jpg"></a>
+							</div>
+							<div class="post-details small">
+								<i class="icon-thumbs-up"></i> 723 recommend this
+							</div>
+						</div>
+					</div>
+					<div class="grid_3">
+						<div class="feature-post">
+							<div class="post-details head">
+								<h3><a href="#">Oslob Whale shark watching</a></h3>
+								<ul class="post-sub-details">
+									<li><a href="#"><i class="icon-location"></i> Cebu, Philippines</a></li>
+								</ul>
+							</div>
+							<div class="post-thumbnail">
+								<a href="#"><img src="../app/assets/images/thumbnail3.jpg"></a>
+							</div>
+							<div class="post-details small">
+								<li><i class="icon-thumbs-up"></i> 723 recommend this</li>
+							</div>
+						</div>
+					</div>
+					<div class="grid_3 omega">
+						<div class="feature-post">
+							<div class="post-details head">
+								<h3><a href="#">Oslob Whale shark watching</a></h3>
+								<ul class="post-sub-details">
+									<li><a href="#"><i class="icon-location"></i> Cebu, Philippines</a></li>
+								</ul>
+							</div>
+							<div class="post-thumbnail">
+								<a href="#"><img src="../app/assets/images/thumbnail3.jpg"></a>
+							</div>
+							<div class="post-details small">
+								<i class="icon-thumbs-up"></i> 723 recommend this
+							</div>
+						</div>
+					</div>
 				</div>
 			</div>
 		

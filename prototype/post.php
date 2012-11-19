@@ -27,16 +27,16 @@
 			<div class="block-content">
 					<ul class="thumbnail-flex">
 		            	<li>
-		  	    	    	<a href="#"><img src="assets/img/thumbnail.png" /></a>
+		  	    	    	<a href="#"><img src="../app/assets/images/thumbnail.png" /></a>
 		  	    		</li>
 		  	    		<li>
-		  	    	    	<a href="#"><img src="assets/img/thumbnail1.png"  /></a>
+		  	    	    	<a href="#"><img src="../app/assets/images/thumbnail1.png"  /></a>
 		  	    		</li>
 		  	    		<li>
-		  	    	    	<a href="#"><img src="assets/img/thumbnail1.png" /></a>
+		  	    	    	<a href="#"><img src="../app/assets/images/thumbnail1.png" /></a>
 		  	    		</li>
 		  	    		<li>
-		  	    	    	<a href="#"><img src="assets/img/thumbnail.png" /></a>
+		  	    	    	<a href="#"><img src="../app/assets/images/thumbnail.png" /></a>
 		  	    		</li>
 		  	    		
           			</ul>
@@ -74,7 +74,7 @@
 					<div class="user-section-head clearfix">
 						<span class="feedback-post-date">January 1</span>
 						<div class="user-thumbnail">
-							<img src="assets/img/user-thumbnail6.jpg">
+							<img src="../app/assets/images/user-thumbnail6.jpg">
 						</div>
 						<a href="#" class="feedback-username">Harvey Katrina</a>
 						
@@ -84,16 +84,47 @@
 						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mattis varius augue, ut bibendum leo ullamcorper eu. Praesent justo urna, malesuada facilisis venenatis quis, pretium quis sapien. Donec nec orci sed libero ornare commodo. Nunc sit amet nulla purus. Quisque tincidunt metus quis tortor blandit eu fermentum purus cursus. Nullam blandit consequat aliquam. Nullam nisl elit, pharetra ac tincidunt non, egestas eu lorem. Morbi fermentum tempus mauris non vulputate. Quisque iaculis tortor nec tellus gravida ac tincidunt sem sodales. In hac habitasse platea dictumst. Maecenas pharetra metus eget nisi vestibulum luctus. Morbi sem mi, auctor eget accumsan tempus, dapibus vel nibh. Donec sollicitudin tincidunt turpis non porttitor. Fusce vitae dui urna.
 					</div>
 					<div class="responses">
-						<a href="#">3 responses</a>
-						<div class="user-section-head clearfix">
-							<span class="feedback-post-date">January 1</span>
-							<div class="user-thumbnail">
-								<img src="assets/img/user-thumbnail6.jpg">
-							</div>
-							<a href="#" class="feedback-username">Harvey Katrina</a>
+						<div class="user-section-head">
+							<h3>3 responses</h3>
 						</div>
-						<div class="feedback-message">
-							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mattis varius augue, ut bibendum leo ullamcorper eu. Praesent n tempus, dapibus vel nibh. Donec sollicitudin tincidunt turpis non porttitor. Fusce vitae dui urna.
+						<div class="response-item">
+							<div class="user-section-head clearfix">
+								<span class="feedback-post-date">January 1</span>
+								<div class="user-thumbnail">
+									<img src="../app/assets/images/user-thumbnail6.jpg">
+								</div>
+								<a href="#" class="feedback-username">Harvey Katrina</a>
+							</div>
+							<div class="feedback-message">
+								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mattis varius augue, ut bibendum leo ullamcorper eu. Praesent n tempus, dapibus vel nibh. Donec sollicitudin tincidunt turpis non porttitor. Fusce vitae dui urna.
+							</div>
+						</div>
+						<div class="response-item">
+							<div class="user-section-head clearfix">
+								<span class="feedback-post-date">January 1</span>
+								<div class="user-thumbnail">
+									<img src="../app/assets/images/user-thumbnail6.jpg">
+								</div>
+								<a href="#" class="feedback-username">Kris Tan</a>
+							</div>
+							<div class="feedback-message">
+								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mattis varius augue, ut bibendum leo ullamcorper eu. Praesent n tempus, dapibus vel nibh. Donec sollicitudin tincidunt turpis non porttitor. Fusce vitae dui urna.
+							</div>
+						</div>
+						<div class="response-item">
+							<div class="user-section-head clearfix">
+								<span class="feedback-post-date">January 1</span>
+								<div class="user-thumbnail">
+									<img src="../app/assets/images/user-thumbnail6.jpg">
+								</div>
+								<a href="#" class="feedback-username">Jim Baloran</a>
+							</div>
+							<div class="feedback-message">
+								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mattis varius augue, ut bibendum leo ullamcorper eu. Praesent n tempus, dapibus vel nibh. Donec sollicitudin tincidunt turpis non porttitor. Fusce vitae dui urna.
+							</div>
+						</div>
+						<div class="block">
+							<a href="#" class="full">View next 3 comments</a>
 						</div>
 					</div>
 				</div>
@@ -118,7 +149,7 @@
 					<div class="user-section-head clearfix">
 						<span class="feedback-post-date">January 1</span>
 						<div class="user-thumbnail">
-							<img src="assets/img/user-thumbnail6.jpg">
+							<img src="../app/assets/images/user-thumbnail6.jpg">
 						</div>
 						<a href="#" class="feedback-username">Harvey Katrina</a>
 						
@@ -156,7 +187,7 @@
 		<div class="block-content nopad clearfix">
 			<div class="h-block-1">
 			<a href="#" class="user-thumb-container small">
-				<div class="user-thumbnail"><img src="assets/img/user-thumbnail1.png"></div> 
+				<div class="user-thumbnail"><img src="../app/assets/images/user-thumbnail1.png"></div> 
 				<span class="user-name-link">Harvey Enrile</span>
 			</a>
 			</div>
