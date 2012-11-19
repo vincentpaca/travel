@@ -145,7 +145,7 @@ body {
   font-size: 14px;
   line-height: 20px;
   color: #333333;
-  background: url(../images/noise_lines.png) fixed;
+  background: url(/assets/noise_lines.png) fixed;
   min-height: 1500px;
 }
 
@@ -250,7 +250,7 @@ a.logo{
 	width:152px;
 	height: 67px;
 	display: block;
-	background: url(../img/logo.png) no-repeat;
+	background: url(/assets/logo.png) no-repeat;
 	position: absolute;
 	left:10px;
 	top:-10px;
