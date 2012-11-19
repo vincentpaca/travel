@@ -1,0 +1,18 @@
+.modal.hide.signin#signupModal
+  .modal-header
+    .section-right
+      =t 'member?'
+      %a#login1{ :href => "#" }=t 'login'
+    %h3=t 'create_account'
+
+  .modal-body.clearfix
+    .signupSocial=t 'social_signup'
+    .block
+      %a.social-btn-wrapper.facebook
+        %i.icon-facebook
+        %span.label=t 'facebook_login'
+
+    .block
+      %a.social-btn-wrapper.twitter
+        %i.icon-twitter
+        %span.label=t 'twitter_login'

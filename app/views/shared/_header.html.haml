@@ -1,0 +1,15 @@
+%header#mainHeader.clearfix
+  .clearfix
+    .container_12.clearfix{ :style => "position: relative;" }
+      %a.logo
+
+      .country-selector-wrapper
+        %strong.small=t 'set_country'
+        %i.icon-location
+        %select.btn{ :name => "country-select", :id => "country-select" }
+          %option Philippines
+          %option Canada
+
+      .nav.right
+        %li= link_to t("signup"), "#", :id => "signupBtn"
+        %li= link_to t("login"), "#", :id => "loginBtn"
